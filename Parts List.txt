@@ -1,0 +1,11 @@
+1x arduino uno or similar
+1x motor-shield 
+2x servo motors
+5x IR emitter/detectors (standard infrared emitter/detecter pairs)
+1x protoboard/breadboard
+5x 10k ohm resistors
+7x 150 ohm resistors
+2x drive wheels and 1x free spinning wheel for the front 
+1x battery pack
+1x power switch
+various hardware (car chassis, wheel-motor mounts, nuts and bolts, wires etc.)
